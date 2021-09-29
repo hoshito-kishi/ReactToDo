@@ -25,15 +25,6 @@ li {
   margin-right: 8px;
 }
 
-.input-area {
-  background-color: #c1ffff;
-  widows: 400px;
-  height: 30px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
-
 .incomplete-area {
   background-color: #c6ffe2;
   widows: 400px;
